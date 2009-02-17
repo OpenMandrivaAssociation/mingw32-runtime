@@ -5,7 +5,7 @@
 %define __find_provides %{_mingw32_findprovides}
 
 Name:           mingw32-runtime
-Version:        3.15.1
+Version:        3.15.2
 Release:        %mkrel 1
 Summary:        MinGW Windows cross-compiler runtime
 
