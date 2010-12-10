@@ -6,7 +6,7 @@
 
 Name:           mingw32-runtime
 Version:        3.15.2
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        MinGW Windows cross-compiler runtime
 
 License:        Public Domain
