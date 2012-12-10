@@ -62,3 +62,23 @@ rm -rf $RPM_BUILD_ROOT
 %{_mingw32_includedir}/*
 %{_mingw32_libdir}/*
 %{_mingw32_mandir}/man3/*
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 3.15.2-3mdv2011.0
++ Revision: 620357
+- the mass rebuild of 2010.0 packages
+
+* Mon Sep 14 2009 Thierry Vignaud <tv@mandriva.org> 3.15.2-2mdv2010.0
++ Revision: 439933
+- rebuild
+
+* Tue Feb 17 2009 Jérôme Soyer <saispo@mandriva.org> 3.15.2-1mdv2009.1
++ Revision: 341484
+- New upstream release
+
+* Fri Feb 06 2009 Jérôme Soyer <saispo@mandriva.org> 3.15.1-1mdv2009.1
++ Revision: 338047
+- import mingw32-runtime
+
+
