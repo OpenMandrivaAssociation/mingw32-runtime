@@ -11,7 +11,7 @@ Summary:        MinGW Windows cross-compiler runtime
 
 License:        Public Domain
 Group:          Development/Other
-URL:            http://www.mingw.org/
+URL:            https://www.mingw.org/
 Source0:        http://dl.sourceforge.net/sourceforge/mingw/mingwrt-%{version}-mingw32-src.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
